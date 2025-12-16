@@ -38,9 +38,6 @@
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=c&text=false">
   </a>
   <a>
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webgl&text=false">
-  </a>
-  <a>
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=opengl&text=false">
   </a>
 </p>
